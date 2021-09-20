@@ -1,7 +1,7 @@
 # Video Browser
 ## Short description
 
-The web application is similar to YouTube. This application contains 5 videos ( we can choose less or more) main video and 4 images/video. Click on the image, image become a video. Default video title is "Motivational videos". Video browser can used as youtube ( type somethiing in input box ) and enjoy.
+Web application is similar to YouTube. This application contains 5 videos ( we can choose less or more) main video and 4 images/video. Click on the image, image become a video. Default video title is "Motivational videos". Video browser can used as youtube ( type somethiing in input box ) and enjoy.
 
 # Aplication's main features
 ## Project features:
