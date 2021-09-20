@@ -1,0 +1,77 @@
+
+
+
+.header {
+  margin: 0px;
+  background: lightblue;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    padding: 0 20px;
+    justify-content: center;
+    font-style: italic bold;
+} 
+  
+
+
+.input-btn {
+  
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.ui input {
+  width: 600px;
+  border-radius: 15px;
+}
+
+.fa fa-search {
+  background-color: white;
+  color: green;
+}
+
+.main-video {
+  width: 100%;
+  height: auto;
+  margin: 0;
+  border-bottom: 1px solid black;
+  display: flex;
+  flex-direction:column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  
+}
+
+.main-video-title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.main-video-description {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+/*.video-pictures- {
+  height: 250px;
+  margin-top: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-bottom: 1px solid black;
+  
+}
+
+.video-titles {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font: 15px;
+  margin-top: 200px;
+  margin-left: -300px;
+} */
+
